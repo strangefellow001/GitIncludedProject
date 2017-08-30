@@ -80,8 +80,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="about.html" />
-    <Content Include="contact.html" />
     <Content Include="Global.asax" />
     <Content Include="home.html" />
     <Content Include="index.html" />
